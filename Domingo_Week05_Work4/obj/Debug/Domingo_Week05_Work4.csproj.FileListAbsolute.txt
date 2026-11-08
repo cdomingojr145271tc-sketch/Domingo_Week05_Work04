@@ -1,0 +1,10 @@
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\bin\Debug\Domingo_Week05_Work4.exe.config
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\bin\Debug\Domingo_Week05_Work4.exe
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\bin\Debug\Domingo_Week05_Work4.pdb
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.AssemblyReference.cache
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.Form1.resources
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.Properties.Resources.resources
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.GenerateResource.cache
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.CoreCompileInputs.cache
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.exe
+E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.pdb
