@@ -8,3 +8,13 @@ E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4
 E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.CoreCompileInputs.cache
 E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.exe
 E:\.net\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.pdb
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\bin\Debug\Domingo_Week05_Work4.exe.config
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\bin\Debug\Domingo_Week05_Work4.exe
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\bin\Debug\Domingo_Week05_Work4.pdb
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.AssemblyReference.cache
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.Form1.resources
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.Properties.Resources.resources
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.GenerateResource.cache
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.csproj.CoreCompileInputs.cache
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.exe
+F:\backup_.net_C#\Domingo_Week05_Work4\Domingo_Week05_Work4\obj\Debug\Domingo_Week05_Work4.pdb
